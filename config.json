@@ -1,0 +1,5 @@
+{
+    "token" : "Discord Token",
+    "api" : "use Copilot API",
+    "channel" :"the channel the bot will request message"
+}
